@@ -1,6 +1,8 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
-  "champions_picker_add_action": "Add \"{name}\"",
-  "champions_picker_empty": "No champions match",
-  "champions_picker_placeholder": "Add champions"
+  "champion_aatrox_name": "亚托克斯",
+  "champion_ahri_name": "阿狸",
+  "champion_akali_name": "阿卡丽",
+  "champion_akshan_name": "阿克尚",
+  "champion_alistar_name": "阿利斯塔"
 }

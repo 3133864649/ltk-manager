@@ -1,31 +1,31 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
-  "shell_diagnostics_label": "Diagnostics",
+  "shell_diagnostics_label": "诊断",
   "shell_diagnostics_pending_label": [
     {
       "declarations": ["input count", "local countPlural = count: plural"],
       "selectors": ["countPlural"],
       "match": {
-        "countPlural=one": "Diagnostics · {count} incident to review",
-        "countPlural=other": "Diagnostics · {count} incidents to review"
+        "countPlural=one": "诊断 · {count} 项待处理",
+        "countPlural=other": "诊断 · {count} 项待处理"
       }
     }
   ],
-  "shell_menu_bug_report_action": "Report a bug",
-  "shell_menu_discord_action": "Join our Discord",
-  "shell_menu_label": "More",
-  "shell_menu_storage_action": "Open storage directory",
-  "shell_menu_storage_error_title": "Failed to open directory",
-  "shell_notifications_clear_action": "Clear all",
-  "shell_notifications_dismiss_action": "Dismiss notification",
-  "shell_notifications_empty": "No notifications yet",
-  "shell_notifications_label": "Notifications",
-  "shell_settings_label": "Settings",
-  "shell_update_action": "Update",
-  "shell_update_available_label": "Update available - v{version}",
-  "shell_update_to_action": "Update to v{version}",
-  "shell_window_close_action": "Close",
-  "shell_window_maximize_action": "Maximize",
-  "shell_window_minimize_action": "Minimize",
-  "shell_window_restore_action": "Restore"
+  "shell_menu_bug_report_action": "报告 Bug",
+  "shell_menu_discord_action": "加入 Discord",
+  "shell_menu_label": "更多",
+  "shell_menu_storage_action": "打开存储目录",
+  "shell_menu_storage_error_title": "无法打开目录",
+  "shell_notifications_clear_action": "清除全部",
+  "shell_notifications_dismiss_action": "忽略通知",
+  "shell_notifications_empty": "暂无通知",
+  "shell_notifications_label": "通知",
+  "shell_settings_label": "设置",
+  "shell_update_action": "更新",
+  "shell_update_available_label": "有可用更新 - v{version}",
+  "shell_update_to_action": "更新至 v{version}",
+  "shell_window_close_action": "关闭",
+  "shell_window_maximize_action": "最大化",
+  "shell_window_minimize_action": "最小化",
+  "shell_window_restore_action": "还原"
 }
